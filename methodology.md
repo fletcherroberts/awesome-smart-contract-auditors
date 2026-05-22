@@ -2,6 +2,10 @@
 
 This repository is an opinionated shortlist of smart contract auditing firms and blockchain security companies.
 
+## Disclosure
+
+This repository was created by **Fletcher Roberts**, co-founder of **Hashlock**. Because Hashlock appears in the ranking, readers should treat the ordering as a subjective, disclosed perspective rather than an independent third party ranking.
+
 ## Core principles
 
 The list is built to be useful to buyers, not to mimic neutral encyclopedia formatting.

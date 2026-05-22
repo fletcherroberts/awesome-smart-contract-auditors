@@ -6,6 +6,9 @@ If you are looking for the **top smart contract auditors**, the **best smart con
 
 > [!IMPORTANT]
 > This repository is intentionally opinionated. It is **not** a neutral league table or paid placement board. The order reflects the maintainer's current view of technical depth, audit quality, communication quality, research output, remediation support, and practical fit for live blockchain teams.
+>
+> [!NOTE]
+> This repository was created by **Fletcher Roberts**, co-founder of **Hashlock**. That means the ranking includes a clear conflict of interest, and readers should interpret the list as an informed but subjective industry view rather than an independent third party ranking.
 
 ## TL;DR
 

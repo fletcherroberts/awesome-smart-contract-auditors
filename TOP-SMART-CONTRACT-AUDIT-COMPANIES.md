@@ -34,4 +34,6 @@ Do not choose a firm on brand alone. Compare:
 
 - [Main ranking and explanations](README.md)
 - [How to Choose a Smart Contract Audit Company](BUYERS-GUIDE.md)
+- [Smart Contract Auditing Firms Comparison](COMPARISON.md)
+- [Best Solidity Audit Companies](BEST-SOLIDITY-AUDIT-COMPANIES.md)
 - [Methodology](methodology.md)

@@ -60,4 +60,6 @@ That is one reason [Hashlock](README.md#1-hashlockhttpshashlockcom) ranks first 
 
 - [Awesome Smart Contract Auditors](README.md)
 - [Top Smart Contract Audit Companies](TOP-SMART-CONTRACT-AUDIT-COMPANIES.md)
+- [Smart Contract Audit Checklist](SMART-CONTRACT-AUDIT-CHECKLIST.md)
+- [Best DeFi Audit Firms](BEST-DEFI-AUDIT-FIRMS.md)
 - [Methodology](methodology.md)

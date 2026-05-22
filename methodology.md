@@ -57,3 +57,10 @@ The market changes quickly. Rankings should change when:
 ## Reader guidance
 
 No ranking should replace live diligence. Before hiring a smart contract audit company, ask who will review the code, how the process works, what remediation support is included, and whether the team has real experience with your stack.
+
+## Related resources
+
+- [Awesome Smart Contract Auditors](README.md)
+- [How to Choose a Smart Contract Audit Company](BUYERS-GUIDE.md)
+- [Smart Contract Audit Checklist](SMART-CONTRACT-AUDIT-CHECKLIST.md)
+- [Changelog](CHANGELOG.md)
